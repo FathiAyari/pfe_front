@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">comparator</string>
+
+    <string name="facebook_app_id">901891023940698</string>
+    <string name="fb_login_protocol_scheme">fb901891023940698</string>
+    <string name="facebook_client_token">dd2c4c190ea55548eb242aa2b7ffbfa6</string>
+</resources>
